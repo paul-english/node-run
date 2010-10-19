@@ -8,3 +8,6 @@ run(
     'cd ~/src',
     'git clone http://github.com/nrub/firstleft'
 );
+
+Install with:
+npm install run
