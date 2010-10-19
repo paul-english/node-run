@@ -1,0 +1,11 @@
+{
+    "name": "run",
+    "description": "a quick tool to run a list of commands synchronously",
+    "version": "0.1.0",
+    "contributors": [
+        { "name": "Paul English", "email": "paul@firstleft.net" },
+    ],
+    "directories": { "lib": "./lib" },
+    "main": "./lib/run",
+    "engines": { "node": ">= 0.2.0" }
+}
